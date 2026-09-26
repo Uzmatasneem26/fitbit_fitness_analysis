@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-STRAVA Fitness Analytics is a data analytics and Streamlit dashboard project that analyzes fitness and smart-device activity data.
+fitbit Fitness Analytics is a data analytics and Streamlit dashboard project that analyzes fitness and smart-device activity data.
 
 The project uses a cleaned Fitbit daily activity dataset to understand patterns in physical activity, calories, sleep, heart rate, sedentary behavior, and user activity.
 
