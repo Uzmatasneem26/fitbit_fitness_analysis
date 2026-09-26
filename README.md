@@ -1,4 +1,4 @@
-# STRAVA Fitness Analytics
+# fitbit Fitness Analytics
 
 ## 📌 Project Overview
 
